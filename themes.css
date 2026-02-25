@@ -154,8 +154,8 @@ body {
 }
 
 .view-content .markdown-preview-view table {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-top: 4px !important;
+  margin-bottom: 16px !important;
 }
 
 /* Serif font for serif-class */
